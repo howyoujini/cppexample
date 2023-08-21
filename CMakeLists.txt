@@ -3,4 +3,8 @@ project(howyoujini)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(howyoujini main.cpp)
+find_package(OpenCV REQUIRED)
+
+add_executable(howyoujini main.cpp image_blur.cpp)
+
+target_link_libraries(howyoujini ${OpenCV_LIBS})
