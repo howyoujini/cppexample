@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 find_package(OpenCV REQUIRED)
 
-add_executable(howyoujini image_median.cpp)
+add_executable(howyoujini image_sobel.cpp)
 
 target_link_libraries(howyoujini ${OpenCV_LIBS})

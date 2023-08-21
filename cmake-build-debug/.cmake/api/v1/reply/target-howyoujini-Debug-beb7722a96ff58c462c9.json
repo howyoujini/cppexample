@@ -388,7 +388,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "image_median.cpp",
+			"path" : "image_sobel.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
