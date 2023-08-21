@@ -1,0 +1,3 @@
+/Users/howyoujini/CLionProjects/howyoujini/cmake-build-debug/CMakeFiles/howyoujini.dir
+/Users/howyoujini/CLionProjects/howyoujini/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/howyoujini/CLionProjects/howyoujini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
