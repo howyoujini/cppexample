@@ -1,0 +1,3 @@
+/Users/howyoujini/Desktop/cppexample/build/CMakeFiles/howyoujini.dir
+/Users/howyoujini/Desktop/cppexample/build/CMakeFiles/edit_cache.dir
+/Users/howyoujini/Desktop/cppexample/build/CMakeFiles/rebuild_cache.dir
